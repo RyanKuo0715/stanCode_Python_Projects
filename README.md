@@ -1,1 +1,1 @@
-# StanCode_SC101
+# SC101_Project
